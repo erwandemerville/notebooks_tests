@@ -1,2 +1,1 @@
-# notebooks_tests
-Des tests
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/erwandemerville/notebooks_tests/HEAD)
